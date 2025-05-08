@@ -1,7 +1,7 @@
-@fontface {
+@font-face {
   font-family: 'Aptos';
   src:
-    url('https://github.com/k-lohit/k-lohit.github.io/blob/Aptos-Black.ttf') format('trutype');
+    url('https://k-lohit.github.io/Aptos-Black.ttf') format('trutype');
   font-weight: normal;
   font-style: normal;
 }
